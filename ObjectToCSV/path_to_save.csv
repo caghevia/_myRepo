@@ -1,0 +1,5 @@
+Name  ,Age ,Hobbies/0/HobbyName ,Hobbies/0/Details ,Hobbies/Category/0/CatName ,Hobbies/Category/0/Other ,Hobbies/1/HobbyName ,Hobbies/1/Details ,Category/CatName ,Category/Other ,Hobbies/Category/1/CatName ,Hobbies/Category/1/Other ,
+name  ,age ,hobbyname           ,details           ,catname                    ,other                    ,hobbyname           ,details           ,catname          ,other          ,catname                    ,other                    ,
+John  ,30  ,Reading             ,Fiction           ,catName1                   ,OtherCat1                ,Swimming            ,Pool              ,catName0         ,OtherCat0      ,                           ,                         ,
+Doe   ,25  ,Hiking              ,Mountains         ,                           ,                         ,                    ,                  ,                 ,               ,                           ,                         ,
+Pedro ,46  ,Hobb2               ,HobDeta2          ,catName2                   ,OtherCat2                ,                    ,                  ,                 ,               ,catName3                   ,OtherCat3                ,

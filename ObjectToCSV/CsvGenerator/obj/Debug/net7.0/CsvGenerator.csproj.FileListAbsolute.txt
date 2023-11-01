@@ -1,0 +1,12 @@
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\bin\Debug\net7.0\CsvGenerator.deps.json
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\bin\Debug\net7.0\CsvGenerator.dll
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\bin\Debug\net7.0\CsvGenerator.pdb
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.csproj.AssemblyReference.cache
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.AssemblyInfoInputs.cache
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.AssemblyInfo.cs
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.dll
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\refint\CsvGenerator.dll
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\CsvGenerator.pdb
+C:\Users\cagonzalez\source\_myRepo\ObjectToCSV\CsvGenerator\obj\Debug\net7.0\ref\CsvGenerator.dll

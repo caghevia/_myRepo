@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PlayBox/1.0.0": {
+        "dependencies": {
+          "CsvGenerator": "1.0.0"
+        },
+        "runtime": {
+          "PlayBox.dll": {}
+        }
+      },
+      "CsvGenerator/1.0.0": {
+        "runtime": {
+          "CsvGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
